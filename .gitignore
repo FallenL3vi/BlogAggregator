@@ -1,0 +1,10 @@
+# .gitignore
+/bin/
+/vendor/
+*.exe
+*.log
+*.test
+*.out
+*.swp
+.DS_Store
+go.sum
